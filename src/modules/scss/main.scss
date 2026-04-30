@@ -1,0 +1,6 @@
+@use './custom/base';
+@use './custom/components';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
