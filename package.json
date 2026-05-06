@@ -1,9 +1,9 @@
 {
-  "name": "acme-analytics-dashboard",
+  "name": "anush-analytics-dashboard",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Acme Analytics Dashboard — Vite + Tailwind + Sass + GSAP",
+  "description": "Anush Analytics Dashboard — Vite + Tailwind + Sass + GSAP",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
